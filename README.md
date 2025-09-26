@@ -1,6 +1,7 @@
-# vue-crash-2024
+# vue-2-2024
 
 This template should help get you started developing with Vue 3 in Vite.
+<img width="1697" height="928" alt="image" src="https://github.com/user-attachments/assets/4f4dbe39-0172-4ac7-8369-2662ae96bd0d" />
 
 ## Recommended IDE Setup
 
